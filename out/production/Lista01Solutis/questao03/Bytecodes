@@ -1,0 +1,6 @@
+
+3. O que são bytecodes?
+
+Bytecodes são uma forma de representação intermediária do código fonte Java, gerada pelo compilador Java após a compila-
+-ção. Eles são instruções de máquina virtuais Java (JVM) e permitem que o mesmo bytecode seja executado em diferentes pla-
+-taformas sem a necessidade de recompilação do código fonte.

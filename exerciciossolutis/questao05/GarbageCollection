@@ -1,0 +1,7 @@
+
+5. O que é Garbage Collection?
+
+é um processo automático de gerenciamento de memória em linguagens de programação que possuem alocação dinâmica de memó-
+-ria, como Java. Ele identifica objetos que não estão mais sendo utilizados pelo programa e libera a memória ocupada por
+esses objetos para ser reutilizada. Isso ajuda a evitar vazamentos de memória e a tornar a programação mais segura e efi-
+-ciente.

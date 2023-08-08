@@ -1,0 +1,6 @@
+
+1. O que são variáveis locais?
+
+Variáveis locais são aquelas declaradas dentro de um escopo restrito, como uma função ou um bloco de código. Elas só po-
+-dem ser acessadas dentro desse escopo e destruídas após a execução desse bloco.
+git g

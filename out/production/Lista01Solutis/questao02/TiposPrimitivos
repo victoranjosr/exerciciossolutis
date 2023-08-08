@@ -1,0 +1,5 @@
+
+2. Quais os tipos de dados primitivos da linguagem Java?
+
+Os tipos primitivos são boolean, byte, char, short, int, long, float e double. Os tipos por referência, são classes que
+especificam os tipos de objeto Strings, Arrays Primitivos e Objetos.

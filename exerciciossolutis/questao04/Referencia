@@ -1,0 +1,6 @@
+
+4. O que é uma referência?
+
+Uma referência em programação é um tipo de dado que armazena o endereço de memória de um objeto ou valor. Em Java, obje-
+-tos são alocados na memória heap e, quando criamos uma variável de um determinado tipo de objeto, na verdade, estamos
+criando uma referência que aponta para o objeto.

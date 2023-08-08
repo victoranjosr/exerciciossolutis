@@ -1,0 +1,9 @@
+
+6. Qual a necessidade de adotar um padrão de codificação?
+
+Adotar um padrão de codificação é essencial para manter a consistência e a legibilidade do código em um projeto de
+software, especialmente quando várias pessoas estão trabalhando nele. Um padrão de codificação define diretrizes e con-
+-venções para a formatação do código, nomenclatura de variáveis, estilo de identação e outras práticas de programação.
+Essa padronização torna o código mais fácil de entender, reduz erros e facilita a manutenção contínua do projeto. Além
+disso, a consistência do código permite que desenvolvedores diferentes colaborem de maneira mais eficiente e compreendam
+ o código uns dos outros de forma mais rápida e eficaz.
